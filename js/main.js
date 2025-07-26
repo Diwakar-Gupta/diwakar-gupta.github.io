@@ -94,7 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
     };
-    
+
     // Initialize animations
     animateOnScroll();
 });
